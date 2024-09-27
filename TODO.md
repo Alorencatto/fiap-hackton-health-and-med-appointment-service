@@ -1,0 +1,6 @@
+- [] doctor_notification_subscriber
+- [] test doctor_notification_subscriber
+- [] Service tests
+- [] DTO Tests
+- [] Adapter Tests
+- [] Integração com segurança do Cognito
