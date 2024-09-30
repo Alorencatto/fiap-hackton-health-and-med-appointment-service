@@ -35,7 +35,7 @@ class AppointmentService:
     def __init__(
         self,
         appointment_repository: AppointmentRepository,
-        appointment_publisher: AppointmentUpdatePublisher,  # TODO this should be a port
+        appointment_publisher: AppointmentUpdatePublisher,  
     ):
         self.appointment_repository = appointment_repository
         self.appointment_publisher = appointment_publisher
